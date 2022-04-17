@@ -2,7 +2,7 @@
 ## FinTech API Personal Finance Planner
 
 ---
-
+![alt text](https://github.com/dockingbay24/PersonalFinancePlanner/blob/main/Resources/financial-planner.png "Personal Finance Planner")
 ### Start a FinTech consultancy firm, and you want to make a difference by working on projects with high social impact in local communities. You just won your first contract to help one of the biggest credit unions in your area
 ---
 
